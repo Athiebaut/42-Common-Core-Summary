@@ -22,6 +22,6 @@ My all projects of 42Network at Paris.
 |04| [Piscine-CPP](https://github.com/Athiebaut/Piscine_CPP) | C++ | C++ concepts | 100% |
 |05| [Exam Rank 05] | C++ | 3 modules |  100% |
 |05| [Inception]() | Docker | System administration |  |
-|05| [IRC] | C++ | HTTP server |  |
+|05| [IRC] | C++ | Internet Relay Chat |  |
 |06| [Exam Rank 06] | C | | |
 |06| [Transcendence] | | | |
