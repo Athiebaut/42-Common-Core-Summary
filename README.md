@@ -24,4 +24,4 @@ My all projects of 42Network at Paris.
 |05| [Inception]() | Docker | System administration |  |
 |05| [IRC] | C++ | HTTP server |  |
 |06| [Exam Rank 06] | C | | |
-|06| [ft_transcendence] | |||
+|06| [Transcendence] | | | |
