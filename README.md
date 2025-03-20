@@ -12,7 +12,7 @@ My all projects of 42Network at Paris.
 |02| [Push Swap](https://github.com/Athiebaut/Push_swap) | C | Sorting Data Algorithms | 125% |
 |02| [So Long](https://github.com/Athiebaut/So_long) | C | Small 2D game | 125% |
 |02| [Minitalk](https://github.com/Athiebaut/MiniTalk) | C | Small data exchange program using bit shifting | 125% |
-|02| [Pipex](https://github.com/Athiebaut/Pipex) | C | Small data exchange program using UNIX signals | 100% |
+|02| [Pipex](https://github.com/Athiebaut/Pipex) | C | Small data exchange program using UNIX signals | X |
 |03| [Exam 03] | C | Printf/Gnl | 100% |
 |03| [Minishell](https://github.com/Athiebaut/Minishell) | C | Simple Shell | 125% |
 |03| [Philosophers](https://github.com/Athiebaut/Philosophers) | C | Parallel programming | 125% |
@@ -20,7 +20,7 @@ My all projects of 42Network at Paris.
 |04| [Cub3D](https://github.com/Athiebaut/Cub3d) | C | Ray-casting game | 125% |
 |04| [Net Practice] | Network | General practice | 100% |
 |04| [Piscine-CPP](https://github.com/Athiebaut/Piscine_CPP) | C++ | C++ concepts | 100% |
-|05| [Exam Rank 05] | C++ | 3 modules |  100% |
+|05| [Exam Rank 05] | C++ | 3 modules |   |
 |05| [Inception]() | Docker | System administration |  |
 |05| [IRC] | C++ | Internet Relay Chat |  |
 |06| [Exam Rank 06] | C | | |
