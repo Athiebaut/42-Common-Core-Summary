@@ -1,4 +1,4 @@
-# 42-Cursus-Common Core
+# 42-Common Core
 My all projects of 42Network at Paris. 
 
 # My progress
