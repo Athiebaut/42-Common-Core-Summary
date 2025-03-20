@@ -10,7 +10,7 @@ My all projects of 42Network at Paris.
 |01| [Born2beroot] | Network & system Administration | System Administration | 110% |
 |02| [Exam 02] | C | Final Exam piscine | 100% |
 |02| [Push Swap](https://github.com/Athiebaut/Push_swap) | C | Sorting Data Algorithms | 125% |
-|02| [so Long](https://github.com/Athiebaut/So_long) | C | Small 2D game | 125% |
+|02| [So Long](https://github.com/Athiebaut/So_long) | C | Small 2D game | 125% |
 |02| [Minitalk](https://github.com/Athiebaut/MiniTalk) | C | Small data exchange program using bit shifting | 125% |
 |02| [Pipex](https://github.com/Athiebaut/Pipex) | C | Small data exchange program using UNIX signals | 100% |
 |03| [Exam 03] | C | Printf/Gnl | 100% |
