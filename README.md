@@ -3,7 +3,7 @@ My all projects of 42Network at Paris.
 
 # My progress
 |Circle | Project | Language | Description | Score | 
-|:-----:|:-------:|:--------:|:-----------:|:-------:|
+|:-----:|:-------:|:--------:|:-----------:|:----------:|
 |00| [Libft](https://github.com/Athiebaut/Libft) | C | C library for 42 projects | 125% ✰ |
 |01| [Printf](https://github.com/Athiebaut/Printf) | C | Recode Printf | 125% ✰ ✰ |
 |01| [Get Next Line](https://github.com/Athiebaut/Get_Next_Line) | C | Function that returns a line, read from a file descriptor | 125% |
