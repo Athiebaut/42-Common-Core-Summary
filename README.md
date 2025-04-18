@@ -1,5 +1,5 @@
 # 42-Common Core
-All my projects of 42Network-Paris. 
+All my projects at 42Network-Paris. 
 
 # My progress
 | Circle | Project | Language | Description | Score | 
