@@ -29,5 +29,5 @@ Student at 42 Paris since 2023 May, a peer-to-peer coding school with a project-
 |05| [IRC](https://github.com/Athiebaut/42-IRC) | C++ | Internet Relay Chat | 125% |
 |05| [Inception](https://github.com/Athiebaut/42-Inception) | Docker | System administration | 100% |
 |05| [Exam Rank 05] | C++ | 3 modules | 100% |
-|06| [Transcendence] | | | |
-|06| [Exam Rank 06] | C | | |
+|06| [Transcendence] | Fullstack web | Multiplayer Pong with real-time play and auth, SPA | |
+|06| [Exam Rank 06] | C | Microserv | |
