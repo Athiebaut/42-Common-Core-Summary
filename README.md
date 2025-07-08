@@ -2,7 +2,7 @@
 
 Student at 42 Paris since 2023 May, a peer-to-peer coding school with a project-based, self-learning approach. Since joining, I have built a strong foundation in algorithmics, low-level programming (C/C++), object-oriented design, Unix systems, networking, cybersecurity, and fullstack web development.
 
-✅ I successfully completed several hands-on technical projects, including:
+I successfully completed several hands-on technical projects, including:
 – push_swap, minishell, ft_irc, Inception, Transcendence, etc.
 – Working with tools like Docker, Git, SQLite, Fastify, WebSockets, and more
 – Developing fully functional applications, network servers, and secure containers
